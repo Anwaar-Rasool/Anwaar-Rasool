@@ -61,6 +61,13 @@
 
 ---
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anwaar-Rasool&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Anwaar-Rasool&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anwaar-Rasool&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
 ## 📫 Contact
 
 📧 muhammadanwaarrasool@gmail.com
@@ -68,4 +75,6 @@
 🔗 [linkedin.com/in/manwaarrasool282](https://www.linkedin.com/in/manwaarrasool282/)
 
 ---
+
+[![](https://komarev.com/ghpvc/?username=Anwaar-Rasool&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center"><i>💬 Feel free to reach out for scraping projects, AI integrations, or collaboration!</i></p>
